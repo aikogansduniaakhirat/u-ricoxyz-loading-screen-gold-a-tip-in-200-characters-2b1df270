@@ -1,0 +1,11 @@
+{
+  "name": "u-ricoxyz-loading-screen-gold-a-tip-in-200-characters-2b1df270",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A loading-screen tip for stressed developers and AI coding agents, under 200 characters.",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
